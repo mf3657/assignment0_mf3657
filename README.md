@@ -62,3 +62,14 @@ e4040-2024fall-assign0-UNI
 1 directory, 8 files
 ```
 
+|   .gitignore
+|   Assignment 0.ipynb
+|   README.md
+|   requirements.txt
+|   
+\---figures
+        gcp_work_example_screenshot_1.png
+        gcp_work_example_screenshot_2.png
+        gcp_work_example_screenshot_3.png
+        README.md
+        
