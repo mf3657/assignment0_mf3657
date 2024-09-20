@@ -48,28 +48,19 @@ Students must upload three similar screenshots in the same directory, but with t
 
 ## Organization of Directory
 
-```            
-e4040-2024fall-assign0-UNI
-├── Assignment 0.ipynb
-├── README.md
-├── figures
-│   ├── README.md
-│   ├── gcp_work_example_screenshot_1.png
-│   ├── gcp_work_example_screenshot_2.png
-│   └── gcp_work_example_screenshot_3.png
-└── requirements.txt
 
-1 directory, 8 files
 ```
-
 |   .gitignore
 |   Assignment 0.ipynb
 |   README.md
 |   requirements.txt
 |   
 \---figures
+        0-1.png
+        0-2.png
+        0-3.png
         gcp_work_example_screenshot_1.png
         gcp_work_example_screenshot_2.png
         gcp_work_example_screenshot_3.png
         README.md
-        
+```     
